@@ -42,4 +42,4 @@ Syrax is built completely with **built-in standard libraries**, requiring **no `
 ### 1. Grab the Project Files
 Clone this repository to your local computer using Git Bash or PowerShell:
 ```powershell
-git clone https://github.com/AMCYD/secure-password-generator.git
+git clone https://github.com/AMCYD/VantSyrax-PassManager.git
