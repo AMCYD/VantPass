@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="images/syrax-logo.jpg" alt="VantSyrax Ultimate Crypto Vault Logo" width="400" hight="400"/>
+  <img src="images/syrax-logo.jpg" alt="VantPass Ultimate Crypto Vault Logo" width="400" hight="400"/>
 </p>
 
-## VantSyrax Ultimate Crypto
+## VantPass Ultimate Crypto
 
-An advanced, terminal-based, deterministic password generation and recovery system written in Python. Unlike traditional password managers that store your plain-text credentials in a vulnerable cloud database, **VantSyrax** uses cryptographic hashing, salt stretching, and custom symmetric logic to calculate your passwords on-the-fly. 
+An advanced, terminal-based, deterministic password generation and recovery system written in Python. Unlike traditional password managers that store your plain-text credentials in a vulnerable cloud database, **VantPass** uses cryptographic hashing, salt stretching, and custom symmetric logic to calculate your passwords on-the-fly. 
 
 Input the exact same criteria (Platform + Salt + Number), and it will reliably reproduce your unique, high-entropy password anywhere, anytime.
 
@@ -42,4 +42,4 @@ Syrax is built completely with **built-in standard libraries**, requiring **no `
 ### 1. Grab the Project Files
 Clone this repository to your local computer using Git Bash or PowerShell:
 ```powershell
-git clone https://github.com/AMCYD/VantSyrax-PassManager.git
+git clone https://github.com/AMCYD/VantPass.git
