@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/VantPass.png" alt="VantPass Ultimate Crypto Vault Logo" width="400" hight="400"/>
+  <img src="images/VantP.png" alt="VantPass Ultimate Crypto Vault Logo" width="400" hight="400"/>
 </p>
 
 ## VantPass Ultimate Crypto
